@@ -18,7 +18,7 @@ int main()
 	ios_base::sync_with_stdio(false), cin.tie(nullptr);
 	//cout << fixed<<showpoint;
 	//cout<<setprecision(20);
-
+	string s="booo";
 	cout<<"hellow world!"<<endl;
 	return 0;
 }
