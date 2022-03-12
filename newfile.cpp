@@ -18,7 +18,11 @@ int main()
 	ios_base::sync_with_stdio(false), cin.tie(nullptr);
 	//cout << fixed<<showpoint;
 	//cout<<setprecision(20);
+<<<<<<< HEAD
 	string s="booo";
+=======
+	string s=" tex";
+>>>>>>> extended
 	cout<<"hellow world!"<<endl;
 	return 0;
 }
